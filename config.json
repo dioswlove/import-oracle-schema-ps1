@@ -1,0 +1,30 @@
+{
+	"Folders": {
+		"Output": "../"
+	},
+	"Database": {
+		"OraTnsnames": "/oracle/Product/network/admin/tnsnames.ora",
+		"Alias": "DEV",
+		"Schemes": [
+			"OTSC",
+			"SAPDM"
+		],
+		"Types": [
+			"DB_LINK", 
+			"FUNCTION", 
+			"INDEX", 
+			"PACKAGE", 
+			"PROCEDURE", 
+			"SEQUENCE", 
+			"SYNONYM", 
+			"TABLE", 
+			"TRIGGER", 
+			"VIEW",
+			"MATERIALIZED VIEW"
+		]
+	},
+	"Credentials": {
+		"Username": "",
+		"Password": ""
+	}
+}
